@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi humans!
+
+I'm a student from UESTC.
